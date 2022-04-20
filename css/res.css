@@ -1,0 +1,23 @@
+@media (max-width:767px){
+    .Top-Heder-in{
+        display: block;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+    .top-left ul,
+    .top-right ul{
+        display: block;
+       
+    }
+    .top-left ul li{
+        font-size: 10px;
+        padding:2px 0;
+    }
+   
+    .top-right ul li{
+        display: inline-block;
+    }
+.slider-content {
+    padding-top:403px;
+}
+}
